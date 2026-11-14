@@ -1,5 +1,7 @@
 # Projet_bibliotheque
-
+## Recevoir les utilisateurs du systeme 
+- **Delai: 03 secondes 
+- **Nombre d'utilisateurs: 50 utilisateurs 
 
 ## Exigences d'infrastructure et Disponibilité 
 - **Horaires de service :** De 8h à 17h, du lundi au vendredi.
